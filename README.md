@@ -14,11 +14,11 @@ My focus is on building clarity in fundamentals and gradually applying them to r
 
 I am looking for opportunities where I can contribute, learn from practical experience, and work alongside others in the field. Open to internships, projects, and meaningful collaborations in software development.
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zish19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zish19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zish19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tiwarisrijan7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tiwarisrijan7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarisrijan7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zish19&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tiwarisrijan7&icon=0&color=0)](https://visitcount.itsvg.in)
 
